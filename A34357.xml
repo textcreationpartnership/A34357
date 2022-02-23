@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A consolatory epistle to D.T.O. in his present circumstances from a member of the association.</title>
+            <author>Member of the Association.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34357</idno>
+            <idno type="STC">Wing C5928</idno>
+            <idno type="STC">ESTC R23335</idno>
+            <idno type="EEBO-CITATION">12759718</idno>
+            <idno type="OCLC">ocm 12759718</idno>
+            <idno type="VID">93475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 377:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A consolatory epistle to D.T.O. in his present circumstances from a member of the association.</title>
+                  <author>Member of the Association.</author>
+               </titleStmt>
+               <extent>[3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Davis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93475:1"/>
+            <pb facs="tcp:93475:1" rendition="simple:additions"/>
+            <p>A CONSOLATORY EPISTLE TO D. T. O.</p>
+            <p>IN HIS Preſent Circumſtances.</p>
+            <p>From a Member of the ASSOCIATION.</p>
+            <q xml:lang="lat">
+               <l>O Tite ſi quid ego adjûro curámve levâſſo</l>
+               <l>Ecquid erit pretii?</l> 
+               <bibl>Ennius.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Davis,</hi> in <hi>Amen Corner.</hi>
+            </p>
+         </div>
+         <div type="summary_of_contents">
+            <pb facs="tcp:93475:2"/>
+            <list>
+               <head>THE CONTENTS.</head>
+               <item>The Pulpit and Pillory combined in his Diſgrace.</item>
+               <item>A ſham Juſtification of himſelf to the Brethren.</item>
+               <item>The Loſs of his Ears, no Damage, no Disfigurement, no Diſ<g ref="char:EOLhyphen"/>credit to him, prov'd both by Arguments and Examples.</item>
+               <item>The Pillory, a Type of the Inquiſition.</item>
+               <item>
+                  <hi>Quaeries</hi> after his Doctorſhip.</item>
+               <item>The Analogy between his Plot and the <hi>Trojan</hi> Horſe.</item>
+               <item>A Caveat to him in the Concluſion.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:93475:2"/>
+            <head>A Conſolatory Epiſtle TO D. T. O. In his preſent CIRCUMSTANCES.</head>
+            <opener>
+               <salute>Signior Doctore,</salute>
+            </opener>
+            <p>WHether a Knight of the Poſt in a Pulpit, or a Miniſter of the Goſpel in a Pillory, do make the better Figure; is a Queſtion reſerv'd for the gravity and experience of your Doctor's Wor<g ref="char:EOLhyphen"/>ſhip to determine on the great Collar-day of your Inſtalment.</p>
+            <p>For then you will hold forth to a numerous Aſſembly of Brethren and Candidates of the Order, who no doubt will convene on the Solemnity of that Feſtival.</p>
+            <p>And, ſince it is likely their Ears or Curioſity may itch after a Reaſon for this unexpected Change of your Poſt in the State, it will behoove you to ſay ſomething, in the firſt place, to comfort and ſweeten, I muſt not ſay, your <hi>former Believers,</hi> but <hi>preſent Creditors,</hi> whoſe Zeal may be turned into Fury, when (beholding your Condition) they ſhall be forced to take rotten Eggs for their money.</p>
+            <p>Though a man would think little Oratory requiſite to perſuade thoſe to any thing, that you have hook'd in already ſo far, and ſtand yet farther obliged, not onely to <hi>hear,</hi> but likewiſe implicitly to <hi>believe</hi> whatſoever you ſay.</p>
+            <p>Therefore, if you think them worthy of another quaint Sham, you may ſmoothly inſinuate unto them, That, being called of late to the Swea<g ref="char:EOLhyphen"/>ring-bench, on the godly fanatick Conſpiracy, you choſe rather to pay down your Ears for a Fine, than hold for a Witneſs againſt thoſe Holy Martyrs of the Aſſociation.</p>
+            <p>
+               <pb n="2" facs="tcp:93475:3"/>While this paſſes on them, you may reſt content with this Comfort of mind, That the very ſame Providence which (like <hi>Mahomet</hi>'s Pigeon) in<g ref="char:EOLhyphen"/>ſpired you with Plots, thinks it meet, your <hi>Table,</hi> your <hi>Attendants,</hi> your <hi>Liberty</hi> and <hi>Credit</hi> being retrench'd, your <hi>Ears</hi> ſhould be ſo too, that all the <hi>ill things</hi> which men take the freedom to ſpeak of you now may not fall within the compaſs of your hearing.</p>
+            <p>But, to ſay truth, it was to be expected, when once your extraordina<g ref="char:EOLhyphen"/>ry Allowances came to be pared, that they would not give over till they pared to the quick; for Policy and Reaſon of State has a long time requi<g ref="char:EOLhyphen"/>red, that thoſe Sentinels or Out-guards to your Head, ſhould be fixt to ſome Poſt, becauſe even your own Sacred Teſtimony implies, that they never ſtuck faſt to their proper Station, but (as if they had made Leather Wings of their Luggs) flew ſwifter than Rumour to all parts of the World; nay, were ſo well at Command too, that, while you ſtood in <hi>England</hi> or <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> you would whiſtle them off into <hi>France, Spain, Rome, Conſtantino<g ref="char:EOLhyphen"/>ple,</hi> &amp;c. where, like Batts fluttering in the dark, they would bring you the Reſults of the cloſeſt Juncto's of Princes and States, nay, even of the Conclave and Divan.</p>
+            <p>Now Ears of ſuch general importance are not to be truſted to a common Subject, for they may be of excellent uſe to the Government, and ſave the Nation the Charge of ſending Miniſters abroad, by a parity of reaſon as the <hi>Stentorophonical Tube</hi> would of maintaining Preachers at home.</p>
+            <p>All to be feared is, they may be intercepted, and chang'd in their return from foreign Excurſions, as they were heretofore; for either common ſenſe is miſtaken, or yours have been counterfeit in ſome Jeſuitical Councils you ſay you overheard; unleſs with a Jeſuitical Reſervation too you mean by <hi>overhearing</hi> that you heard ſomething <hi>over</hi> and <hi>above</hi> what was ſpoken; and, if ſo, this Cauterization is a neceſſary Trench to keep your Hearing within its due bounds, and hinder its leaping the Pale with thoſe <hi>ſtragling Outlyers.</hi>
+            </p>
+            <p>Yet ſince your Ears are to be taken up for the Publick uſe, your Trim<g ref="char:EOLhyphen"/>mer ſhould be caution'd, in giving you a Caſt of his Office, to wriggle his Knife, as men do in carving of Brawn, or other Souſe, that ſo what's cut off, and the Stump which remains nicking like Tallies; they may be ſafely detach'd again into the parts abroad, to bring back Intelligence, and without any hazard of having for the future falſe Ears put upon us; yet this will not doe if the Parings of your Head, like thoſe of a <hi>Holland</hi> Cheeſe, be thrown out among common Rubbiſh.</p>
+            <p>But, could you have them in <hi>Commendum,</hi> they would be as good as a Benefice, Doctor; for you might carry your Ears, like your Spectacles, in your Pocket, and with their own Wax clap either on upon occaſion like a Byaſs to the ſide of your Head that you liſten by, and ſo wind and ſcrew your ſelf into a Secret, though never ſo cloſely blockt up; eſpecially when you may, with the privilege of an Eunuch, thruſt in upon any man's pri<g ref="char:EOLhyphen"/>vacy, being ſuppoſed to have left your Luggs at the door.</p>
+            <p>Ah, Doctor, had you manag'd your Talent as other popular men have done theirs, your Ears might have been taken off with a Penſion inſtead of a Knife, but you muſt make the beſt of your bargain as 'tis; and ſince it is neceſſary that, in theſe Plotting times, ſome one ſhould have the keeping of thoſe Eaves droppers of yours, you ſhould put in for the Preference, if it were but for the ſake of the Brethren. For it is great Charity to lend
+<pb n="3" facs="tcp:93475:3"/>
+them as often as a Brother of the Order, in the abſence of his own, ſhall have occaſion for any, upon a Job of Swearing; for men muſt live by their Vocation, and cannot work without Tools.</p>
+            <p>And in this late ſcarcity, though the Ears of any one Brother be virtual<g ref="char:EOLhyphen"/>ly the Ears of the Brethren in general, and to be uſed in common among them; yet you, being Head of the Party, ſhould moſt conſtantly wear them; and, being the moſt likely to come into buſineſs, you will oftner have occaſion to uſe them.</p>
+            <p>For as the <hi>Dutch,</hi> when they ſail near the Wind, and muſt Traverſe, to fetch a certain Point, do uſe Leeboards (which are a <hi>ſpecies</hi> of Ears faſt<g ref="char:EOLhyphen"/>ned outwardly to each ſide of the Veſſel,) ſo you, ſhould you be croſs ex<g ref="char:EOLhyphen"/>amined to any particular thing, and forced to lye now on one, and then on t'other Tack, in that caſe indeed (the Gale being againſt you) your Ears would not onely be decent, but neceſſary too as Leeboards to make good your Tripps. Though, were you to go before it again, and onely to tell a long Story to a favourable Audience, they then would put you out of your right Trim, and every little Whiſper or Breeze that affected them, would make you alter your courſe.</p>
+            <p>But this being unlikely to happen without changing the ſcene to Aſſocia<g ref="char:EOLhyphen"/>tion, you need be in no pain; for, ſhould that come about, you know a Committee of them would be no more to ſeek in fitting you with a new Pair, than they were in <hi>Dangerfield</hi>'s caſe, whoſe Remnants they piec'd and eek'd out with a Vote, and ſo he came into the Pit ſhorn and trim<g ref="char:EOLhyphen"/>med like a Cock of the Game; and having acquitted himſelf with a Natio<g ref="char:EOLhyphen"/>nal Applauſe, was put into the Bagg with you, <hi>Bedlow, Dugdale</hi> and all the reſt of the fighting Evidences.</p>
+            <p>But yet ſtay a little, as they equip you with Ears, they muſt furniſh you with Credit too, otherwiſe they expoſe the publick Safety to more danger than ever. For the Jeſuits knowing our weak ſide would make their Attack on that where you had your quarter, becauſe, like the Knaviſh Paſtor in the Fable, you have made us ſo incredulous by former falſe Alarms, that you would cry out in vain when the Wolf were upon the Flock indeed.</p>
+            <p>I proceed from the Topick of publick Convenience, and its Oppoſite, to that of Ornament, and Deformity, in your private Perſon, by this Po<g ref="char:EOLhyphen"/>litick Reducement.</p>
+            <p>Firſt, then, as to the Scaffold whereon you are expos'd, as it is a viſible Type of the Inquiſition, where Popery reigns, ſo is it the proper ſtation of you, the Protomartyr or firſt ſuffering Witneſs of our laſt Refiners upon Reformation; and therefore you ſhould rejoice and exult rather than bluſh on ſo glorious a Stage.</p>
+            <p>And were this indelible Character of your new Ordination ſet upon you in a Countrey where Reliques of Saints are held in veneration, your Ears, that have ſhielded us from the Attempts of the Papiſts, would be laid up as Sacred, like the <hi>Ancilia</hi> that, in <hi>Rome</hi>'s firſt Superſtition, were ſuppos'd to drop down from Heaven for the Preſervation of their Commonwealth.</p>
+            <p>Now, as to your own Dreſs or Trim, though, at firſt appearance, your Head, on a Stall, like a Barber's Block, looks ſomething bald and ſingular; yet, in theſe times of Religious Innovation, the Authority of your example may as well bring it into a Mode as <hi>Pyms</hi> cropping his Hair brought Round-heads into faſhion.</p>
+            <p>
+               <pb n="4" facs="tcp:93475:4"/>Then will you with <hi>Rabby Buſy,</hi> get looſe from the Stocks, rejoyce, <hi>&amp;c.</hi> cry out, <hi>The Malice of the Enemy hath mocked it ſelf;</hi> and the once Ruling Faction in the City will put you in the Kalendar with Sir <hi>Patience Ward,</hi> in whoſe Repreſentative head the Charter receiv'd its firſt wound, though in a little time after it was it ſelf brought to the Stake, and much of its ſuper<g ref="char:EOLhyphen"/>fluous Parchment reſcinded, like yours.</p>
+            <p>But were not <hi>Pryn, Burton</hi> and <hi>Baſtwick</hi> triumphantly ſhewed to the Mo<g ref="char:EOLhyphen"/>bile in your very cut? Ay, and with more applauſe, I dare ſay, than Mon<g ref="char:EOLhyphen"/>ſieur <hi>Candal</hi> would have been in long Locks and Pantaloons; nay, they were cry'd up as Patterns to the imitation of all good Patriots, and long Ears, in thoſe days, were exploded as much as long Horns, or long Hair, which be<g ref="char:EOLhyphen"/>ing but vain excrements, the Wiſer part of Men even now do cut off, and hide, or wear in Perriwigs.</p>
+            <p>May not you then, by the ſame Rule of Decency, wear a Cap with Ears, ſince your Age (if not your Profeſſion) allow it? eſpecially when you may pretend, that thoſe outward excreſcences, literally ſpeaking, were but the Luggage of your Invention, that, Cumbring its march with unneceſſary digreſſions, you left behind, for the ſame Reaſon that the Philoſopher cut off his Doucets.</p>
+            <p>The <hi>Spaniards,</hi> who always fift Honour to the fineneſs of a Punctilio, wear Bigotero's, or Spur-leathers between their Noſe and upper Lip, not onely when they have Beards, but when they have none, and a Man may more ſafely take a Bear by the Tooth, than queſtion his Muſtachios: yet they ſeem half aſham'd of their Ears, by Combing all their hair on one ſide, to cover a moiety of them. Do not the ſame Nation wear Spectacles too, when they ſee better without them, to keep off the Malignity of Venemous ob<g ref="char:EOLhyphen"/>jects? And ſhall a Doctor be aſhamed to wear Claſps to his hearing, to keep off the ſound of bitter Truths, which otherwiſe would give him the head<g ref="char:EOLhyphen"/>ach?</p>
+            <p>We reade among the <hi>Mythologiſts,</hi> that when the Gods did puniſh the fol<g ref="char:EOLhyphen"/>ly of <hi>Midas,</hi> they expoſed him with a pair of Aſſes Ears, to make him ridi<g ref="char:EOLhyphen"/>culous. Why the Argument holds in converſion, that as long Ears are a ble<g ref="char:EOLhyphen"/>miſh, ſo ſhort Ears are a beauty; and, if ſo, the ſhorter the prettier.</p>
+            <p>Beſides, this remark of the Law was neceſſary, to diſtinguiſh you in com<g ref="char:EOLhyphen"/>mon diſcourſe, your Name being an equivocal word; and therefore a Man may be banter'd half an hour together with a Jargon of <hi>Oates</hi> before he knows what it means; but then if one explains himſelf, by adding, I in<g ref="char:EOLhyphen"/>tend that <hi>Oates</hi> that had Ears, we know the Tree by the Fruit, without far<g ref="char:EOLhyphen"/>ther note, or comment. And if any be ſo impertinent, as to ask you, why you have not your Ears ſtill, you may anſwer him proudly, with <hi>Cato,</hi> You had rather be asked why you have none, than why you have any.</p>
+            <p>
+               <hi>Ergo, Doctor, concluſum eſt,</hi> that this nimming of your Ears does not at all intrench upon the Ornament, or Convenience of your Perſon, in any ca<g ref="char:EOLhyphen"/>pacity whatſoever.</p>
+            <p>Having hitherto been your Inſtructor, I muſt now become your Diſciple, and deſire to be ſincerely inform'd, what Science, or Faculty you took the Degree of Doctor in, and this I ask, becauſe I do not find that any Com<g ref="char:EOLhyphen"/>mence in <hi>Phyſick</hi> at <hi>Salamanca;</hi> and our Divines here ſuppoſe you a <hi>Civili<g ref="char:EOLhyphen"/>an,</hi> and our <hi>Civilians</hi> take you for a <hi>Divine.</hi> Now, ſhould you, like the <hi>Mountebank</hi> in the <hi>Epigram,</hi> prove neither one nor t'other, we muſt find ſome new Profeſſion for your Learned Doctorſhip: And truely, I always
+<pb n="5" facs="tcp:93475:4"/>
+have fanſy'd, that your Title of Miniſter being not underſtood in that U<g ref="char:EOLhyphen"/>niverſity in a Clerical ſenſe, you paſs'd upon them for a Miniſter of State; and they being puzzled for the Style of Dignities taken in that Myſtery, made you a Doctor of State too: Nor did they doe you that Honour, I fear, upon a due examination of your parts, ſo much as a curious Diſſection of your Name, according to <hi>Subtle</hi> in the <hi>Alchymiſts,</hi> proceeding with ho<g ref="char:EOLhyphen"/>neſt <hi>Nab;</hi> ſo the <hi>Anagram</hi> of <hi>Titus Otes,</hi> with the addition of Doctor, was Gravely pronounced, <hi>Doctor eſto Tutis:</hi> and this I the rather believe, that I find in <hi>Spain</hi> two Sects of <hi>Phyſicians,</hi> one practiſing upon thoſe onely that enjoy perfect health, the other upon the infirm. Of the former profeſſion was <hi>Don Pedro Rezio Sancho Panca</hi>'s Phyſician in his Government, and in that I ſuppoſe you Commenc'd; for you did but Practiſe in your Calling, when by Tampering with the Publick Peace, you made ſo dangerous an Experiment of late upon the wholeſome Conſtitution of our Monarchy.</p>
+            <p>From the conſideration of your Perſon, and Dignity, I deſcend to that of your Plot, and am apt to believe, that though you Spun the Matter of it like a Spider, out of your own Bowels, you Faſhion'd it after the Model of that Famous Stalking Horſe, by which the <hi>Greeks</hi> ſurpriſed <hi>Troy,</hi> and de<g ref="char:EOLhyphen"/>ſigned it for the like purpoſe too. Which when honeſt Juſtice <hi>Laocoon</hi> (ſuſ<g ref="char:EOLhyphen"/>pecting there was ſome miſchief in the Belly on't) would have thoroughly ſearched, or prob'd with his Lance, he was <hi>Godfrey'd</hi> by two of <hi>Sinon</hi> the Je<g ref="char:EOLhyphen"/>ſuits Myrmidons, who coming out of the River <hi>Simois, Anglicè Thames,</hi> up to <hi>Somerſet-houſe,</hi> in the ſhape of Water-Snakes, the one twiſting it ſelf about his Neck, Strangled him, while the other with his Sting pierc'd him into the Body. <hi>Sinon</hi> nevertheleſs Swore, with his uſual Double Meanings, that the Horſe was fill'd with nothing but <hi>Oates,</hi> which they miſtaking for Provender, were perſwaded to break down their Walls, and disband their Guards; when behold the very ſame Night that the ill-contriv'd Machine was receiv'd into their Town, Old <hi>Oates,</hi> your Great Anceſtor, Sally'd out of his Belly, in the head of the Lord knows how many of thoſe Black Bills (which, through many Deſcents, came into your Brain) and having caught the poor <hi>Trojans</hi> napping, made the diſmal Havock intended by the <hi>Aſſocia<g ref="char:EOLhyphen"/>tion,</hi> which ſo long lay hid in the Belly of your Plot. And blind <hi>Homer,</hi> in the Latitude of your conſtruction, being an Eye-witneſs, has deliver'd down to us in <hi>Iliads,</hi> which I preſume is <hi>Greek,</hi> for a Poetical Narrative, according to our Modern Style.</p>
+            <p>After all, Doctor, I conclude, you muſt ſit down patiently with the loſs of your Ears, though it ſeem a hard caſe that the Law ſhould make it ſo Penal, to Clip the King's Coyn, and yet provide no Remedy for thoſe, who, bearing the Image of his Creator, are daily ſerved ſo. For, were there any Relief in <hi>Weſtminſter-Hall,</hi> the late Barretor of <hi>Lincolns-Inn</hi> had doubtleſly brought an Action on the Caſe; and yet yours being upon another point, it is worth a Fee to know, whether the raſing of your Ears may not, by Implication, be raſing of a Record, ſince yours, and others <hi>Hear-ſay,</hi> ſeems all we have to ſhew for our proceedings againſt thoſe that have Suffer'd. Yet ſhould it be ſo, the <hi>Pillory-Barber</hi> may cunningly prevent the Indictment, by putting thoſe Labels he cuts off of your Ears on the File, in ſtead of the Poſt, though even that were ſome Satisfaction.</p>
+            <p>
+               <pb n="6" facs="tcp:93475:5"/>In fine, Doctor, your head was too full of remote, and obſcure Notions, to be thoroughly underſtood, without Marginal Notes; and ſince the Com<g ref="char:EOLhyphen"/>mentator, by his Rubricks, ſhould be a <hi>Papiſts,</hi> that is, a <hi>Red-letter'd Man,</hi> he will decipher your Character ſo very plain, that no Man of eyes, or under<g ref="char:EOLhyphen"/>ſtanding, can hereafter miſtake you.</p>
+            <p>Therefore do not you miſtake your own Predicament, but (while you may) by a fair <hi>Manifeſto,</hi> or <hi>Counter Narrative,</hi> hang out a Flag to ſave your laſt ſtake, your head; ſince it is juſtly to be fear'd, that your Enemies, by their regular approaches, as breaking ground at a diſtance firſt, and throwing in that Bomb of <hi>Scandalum Magnatum,</hi> then attacking your out<g ref="char:EOLhyphen"/>works, which ſtraitned your Liberty of Marching, and now ſtorming the very Half-moons on your Counterſcarp, will not ſtop, till they are Maſters of the Main Cittadel too. And ſo adieu, Doctor.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93475:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
